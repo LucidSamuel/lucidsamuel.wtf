@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Tesla';
+  src: url('./fonts/tesla-seredich.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* If you have other font declarations, keep them here */

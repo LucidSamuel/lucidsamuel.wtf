@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'tesla-seredich';
+    src: url('tesla-seredich.eot');
+    src: local('tesla-seredich'),
+        url('tesla-seredich.eot?#iefix') format('embedded-opentype'),
+        url('tesla-seredich.woff2') format('woff2'),
+        url('tesla-seredich.woff') format('woff'),
+        url('tesla-seredich.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
