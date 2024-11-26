@@ -118,21 +118,27 @@ const BlogSection = ({ id }) => {
     },
     {
       title: "Building a Solana Wallet Generator with React",
-      description: "Web scraper that helped sell my car using a data-driven approach",
+      description: "Wallets are critical for getting into crypto or developing any dAPP (decentralized app) since they provide various important functions in the Web3 ecosystem.",
       tags: ["Blockchain", "Solana", "D"],
-      link: "#"
+      link: "https://medium.com/codex/building-a-solana-wallet-generator-with-react-d992b0b1932f"
     },
     {
       title: "DeSci-The future of research",
-      description: "What if a robot could write b-movies?",
-      tags: ["blockchain", "research"],
-      link: "#"
+      description: "The DeSci movement advocates for real decentralization, rejecting institutional influence, and supporting citizen research in the quest for truth.",
+      tags: ["blockchain", "research", "desci"],
+      link: "https://www.researchhub.com/question/564/desci-the-future-of-research"
     },
     {
-      title: "The act of acheiving productivicty through focus.",
-      description: "Sydney property market dashboard across different suburbs using a dataset from Kaggle.",
-      tags: ["personal", "productivicty", "musings"],
-      link: "#"
+      title: "The role of Observability & Monitoring in Software.",
+      description: "A deep dive into observability and its significance in software engineering.",
+      tags: ["blockchain", "research", "desci"],
+      link: "https://medium.com/codex/the-role-of-observability-monitoring-in-software-46bd88f792fe"
+    },
+    {
+      title: "Navigating user permissions with Cerbos.",
+      description: "User permissions (authorizations and authentication) are an indisputable aspect of most systems’ essential operation, and they demand careful consideration in terms of design, structure, and construction.",
+      tags: ["authentication", "programming", "auth"],
+      link: "https://lucidsamuel.medium.com/navigating-user-permissions-with-cerbos-ec19577202ff"
     }
   ];
 
