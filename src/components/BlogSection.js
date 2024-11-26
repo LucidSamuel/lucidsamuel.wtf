@@ -102,19 +102,19 @@ const BlogSection = ({ id }) => {
       title: "zkSci-improving scientific research with zero knowledge proofs.",
       description: "Make and search notes in Notable from Alfred",
       tags: ["Blockchain", "Zero Knowledge Proofs"],
-      link: "#"
+      link: "https://lucidsamuel.medium.com/zksci-improving-scientific-research-with-zero-knowledge-proofs-458c65970e8"
     },
     {
       title: "The world's most advanced DAO-Service Nervous System",
       description: "The world's most advanced DAO-Service Nervous System",
       tags: ["Blockchain", "DAOs"],
-      link: "#"
+      link: "https://lucidsamuel.medium.com/the-worlds-most-advanced-dao-service-nervous-system-f90ae5b2242c"
     },
     {
       title: "Towards a truly decentralized blockchain",
-      description: "A DevOps project utilising Docker, Kafka and Microservice Architecture Principles",
+      description: "Problems With Blockchain and Why We Need the Internet Computer",
       tags: ["Blockchain", "P"],
-      link: "#"
+      link: "https://hackernoon.com/problems-with-blockchain-and-why-we-need-the-internet-computer#"
     },
     {
       title: "Building a Solana Wallet Generator with React",
